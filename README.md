@@ -1,16 +1,52 @@
-### Привет! Меня зовут Алексей 👋
 
-<!--
-**cosmograve/cosmograve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Алексей!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: Обо мне:
+
+Я начинающий iOS разработчик. Мой путь начался с тестирования приложений на iOS. Через 3 месяца попал в разработчики на условиях внутреннего конкурса. 
+
+Чем я занимался?
+
+- Разработкой мобильных приложений под iOS
+- Развитием функциональности уже существующих приложений.
+- Участвовал в процессе загрузки приложений в App Store
+- Верстал окна приложений используя макеты из Figma. Так же участвовал в доработке этих окон согласно гайдлайнам
+
+В приложениях использовал следующие фреймворки:
+- UserNotifications
+- Alamofire (простейшие запросы в сеть с получением данных)
+- Lottie
+- Realm
+- Firebase
+- UserDefaults
+- Amplitude
+- Apphud
+- В одном из последних проектов работал с Api Twilio
+- MVC 
+- MVVM
+- SwiftUI
+- В каждое приложение интегрировал In-App purchases.
+
+ктивно ищу работу!
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-cosmogrvve-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
+
+---
+
+<a href="https://www.github.com/cosmograve" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/cosmograve?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+ 💻 Технологии:
+
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+
+<b>Статы</b>
+
+<a href="http://www.github.com/cosmograve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmograve&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
