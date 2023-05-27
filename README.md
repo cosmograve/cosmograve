@@ -31,7 +31,7 @@
 
 ктивно ищу работу!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-cosmogrvve-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cosmogrvve)
 
 ---
 
