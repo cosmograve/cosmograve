@@ -45,4 +45,4 @@ Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge
 
 <a href="http://www.github.com/cosmograve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmograve&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://www.codewars.com/users/cosmograve/badges/large" /></a>
+[![codewars](https://www.codewars.com/users/cosmograve/badges/large)](https://www.codewars.com/users/cosmograve)   
