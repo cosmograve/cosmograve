@@ -27,6 +27,7 @@
 - SwiftUI
 - В каждое приложение интегрировал In-App purchases.
 
+
 :warning: Активно ищу работу!
 
 Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cosmogrvve)
